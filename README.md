@@ -6,7 +6,7 @@
 ![REST APIs](https://img.shields.io/badge/REST_APIs-20+_Hours-important)
 
 ---
-My name is **Bryan Clark** and I'm currently working as a Software Engineering Immersion Resident at Hack Reactor. I am a **Full Stack** developer who loves learning, solving problems, and recreating in the great outdoors. 
+My name is **Bryan Clark** and I'm currently working as a Software Engineer. I am a **Full Stack** developer who loves learning, solving problems, and recreating in the great outdoors. 
 
 - 🔭 Currently looking for work as a **Web Developer**
 - 💬 Ask me about **web development, coding bootcamps, the great outdoors**
