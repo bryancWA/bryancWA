@@ -8,7 +8,7 @@
 ---
 My name is **Bryan Clark** and I'm currently working as a Software Engineer. I am a **Full Stack** developer who loves learning, solving problems, and recreating in the great outdoors. 
 
-- 🔭 Currently looking for work as a **Web Developer**
+- 🔭 Currently working as  **Web Application Developer**
 - 💬 Ask me about **web development, coding bootcamps, the great outdoors**
 - 📃 Former legal-industry professional, who excels in written and verbal communication.
 
