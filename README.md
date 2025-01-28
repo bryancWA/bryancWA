@@ -16,9 +16,6 @@ My name is **Bryan Clark** and I'm currently working as a Software Engineer. I a
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-Bryan_Clark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bryan-r-clark/)](https://www.linkedin.com/in/bryan-r-clark/)
 
-
-**bryancWA/bryancWA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
